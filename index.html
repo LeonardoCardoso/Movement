@@ -1,0 +1,46 @@
+<html>
+<head>
+    <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+    <script src='js/movement.js'></script>
+
+    <style>
+
+        .imgStyle {
+            width: 200px;
+            height: 200px;
+        }
+
+    </style>
+
+    <script>
+        $(document).ready(function () {
+            $('#mv2').movement({
+                center: "img/center.jpg",
+                up: "img/up.jpg",
+                upRight: "img/upRight.jpg",
+                right: "img/right.jpg",
+                downRight: "img/downRight.jpg",
+                down: "img/down.jpg",
+                downLeft: "img/downLeft.jpg",
+                left: "img/left.jpg",
+                upLeft: "img/upLeft.jpg"
+            });
+
+            $('#mv3').movement();
+
+            $('#mv4').movement();
+
+            $('#mv5').movement();
+        });
+    </script>
+</head>
+<body>
+
+<div style="margin: auto; width: 410px; margin-top: 10%;">
+    <img id="mv2" class="imgStyle">
+    <img id="mv3" style="width: 200px; height: 200px;">
+    <img id="mv4" class="imgStyle">
+    <img id="mv5" style="width: 200px; height: 200px;">
+</div>
+</body>
+</html>
