@@ -9,8 +9,7 @@ A funny way to interact with the mouse. Good for Team showcase.
 
 For more details, visit http://lab.leocardz.com/movement/
 
-![Movement](https://dl.dropbox.com/s/1f4xml6y8677giu/movement.gif)
-![Movement](https://dl.dropbox.com/s/wu0t4cutgobv4d3/movement2.gif)
+![Movement](http://i.imgur.com/YgCWvfU.gif)
 
 
 ## How to added to your project
