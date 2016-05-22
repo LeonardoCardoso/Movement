@@ -66,10 +66,7 @@ Just create your own <b>img tag</b> (or multiple <b>img tags</b>) with width and
 
 Contact
 =================================
-
-Twitter: <a href='https://twitter.com/theleocardz' target='_blank'>@TheLeoCardz</a>
-
-Email: contact@leocardz.com
+Contact me either by Twitter [@leocardz](https://twitter.com/leocardz) or emailing me to [contact@leocardz.com](mailto:contact@leocardz.com).
 
 
 License
