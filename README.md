@@ -7,8 +7,6 @@ Developed by <a href='https://github.com/LeonardoCardoso' target='_blank'>@Leona
 
 A funny way to interact with the mouse. Good for Team showcase.
 
-For more details, visit http://lab.leocardz.com/movement/
-
 ![Movement](http://i.imgur.com/YgCWvfU.gif)
 
 
